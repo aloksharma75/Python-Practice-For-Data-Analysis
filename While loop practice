@@ -1,33 +1,33 @@
-# count = 0 # count daclear and main value assign inicil
-# while count >=5: #set condition 
-#     print(count) 
-#     count = count + 1  # loop condition step 
+count = 0 # count daclear and main value assign inicil
+while count >=5: #set condition 
+    print(count) 
+    count = count + 1  # loop condition step 
 
-# else:
-#     print("|The loop is End")
+else:
+    print("|The loop is End")
 
-# count = 0
-# while count <10:
-#     print("Hi Shihab the cake lover")
-#     count = count + 1
-
-
-# x = int (input("Enter the number:"))
-# start_number = x
-# while start_number >33:
-#     print(x,"Pass")
-#     break
-
-# else:
-#     print("Fail")
+count = 0
+while count <10:
+    print("Hi Shihab the cake lover")
+    count = count + 1
 
 
-# a =["Alok Sharma", "Shihab", "Sajjad"]
+x = int (input("Enter the number:"))
+start_number = x
+while start_number >33:
+    print(x,"Pass")
+    break
+
+else:
+    print("Fail")
+
+
+a =["Alok Sharma", "Shihab", "Sajjad"]
  
-# while True:
-#         i = 0
-#         if a [i]=="Sajjad":
-#            print ("find the fucku man")
-#            break
-#         i += 1
+while True:
+        i = 0
+        if a [i]=="Sajjad":
+           print ("find the man")
+           break
+        i += 1
             
